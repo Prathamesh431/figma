@@ -536,5 +536,95 @@ opacity: 0px;
   left: 1055px;
   gap: 0px;
   opacity: 0px;
-  
+}
+/* shop */
+
+#all{
+  width: 190px;
+height: 40px;
+top: 187px;
+left: 80px;
+gap: 0px;
+opacity: 0px;
+font-family: Mulish;
+font-size: 32px;
+font-weight: 800;
+line-height: 40.16px;
+text-align: left;
+}
+#all1{
+  font-family: Mulish;
+font-size: 24px;
+font-weight: 400;
+line-height: 30.12px;
+text-align: left;
+}
+#table p{
+  width: 176px;
+height: 69px;
+top: 277px;
+left: 80px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+
+.shop{
+  width: 117px;
+height: 25px;
+top: 714px;
+left: 412px;
+gap: 0px;
+opacity: 0px;
+font-family: Mulish;
+font-size: 15px;
+font-weight: 200;
+line-height: 25.1px;
+text-align: left;
+
+}
+.shop1{
+  width: 305px;
+height: 319px;
+margin-top: 2%;
+left: 405px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #CCCCCC
+}
+.shop1 p{
+  width: 219px;
+height: 25px;
+top: 632px;
+left: 412px;
+gap: 0px;
+opacity: 0px;
+font-family: Mulish;
+font-size: 20px;
+font-weight: 400;
+line-height: 25.1px;
+text-align: left;
+}
+
+.shop2{
+  width: 305px;
+height: 319px;
+margin-top: 2%;
+left: 730px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #CCCCCC
+}
+.shop3{
+  width: 305px;
+  height: 319px;
+  margin-top: 2%;
+  left: 1055px;
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  border: 1px solid #CCCCCC
 }
